@@ -37,7 +37,7 @@
 		"typescript": "3.9.5"
 	},
 	"dependencies": {
-		"commander": "^5.0.0"
+		"commander": "^7.0.0"
 	},
 	"bin": {
 		"anygen": "dist/bin/anygen.js"
