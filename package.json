@@ -22,7 +22,7 @@
 	},
 	"homepage": "https://github.com/M-jerez/gulp-cli-generator#readme",
 	"devDependencies": {
-		"@types/jest": "26.0.3",
+		"@types/jest": "26.0.23",
 		"@types/node": "12.12.47",
 		"chai": "4.2.0",
 		"husky": "4.2.5",
